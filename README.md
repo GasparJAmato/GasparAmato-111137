@@ -62,3 +62,4 @@ vector_original = vector;
 
 ## Respuestas a las preguntas teóricas
 Incluír acá las respuestas a las preguntas del enunciado (si aplica).
+# GasparAmato-111137
